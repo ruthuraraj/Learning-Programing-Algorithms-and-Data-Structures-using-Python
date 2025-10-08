@@ -56,4 +56,3 @@ This project is licensed under the [MIT License](LICENSE) — feel free to reuse
 ## 👨‍🏫 Author
 **Ruthuraraj R.**  
 Faculty, Mechanical Engineering — exploring the intersection of AI, Algorithms, and Education.  
-📧 [optional email or LinkedIn link]
