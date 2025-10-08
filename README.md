@@ -53,13 +53,6 @@ This project is licensed under the [MIT License](LICENSE) — feel free to reuse
 
 ---
 
-## 🌐 Run Notebooks Online
-You can open any notebook directly in **Google Colab** by clicking:  
-`Open in Colab → File → Save a copy in Drive`  
-*(Add Colab badges later if you want, I can show you how)*
-
----
-
 ## 👨‍🏫 Author
 **Ruthuraraj R.**  
 Faculty, Mechanical Engineering — exploring the intersection of AI, Algorithms, and Education.  
